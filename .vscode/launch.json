@@ -8,7 +8,7 @@
         {
             "type": "mock",
             "request": "launch",
-            "name": "Ask for file name",
+            "name": "README",
             "program": "${workspaceFolder}/${command:AskForProgramName}",
             "stopOnEntry": true
         }
